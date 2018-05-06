@@ -1,0 +1,4 @@
+node_modules
+
+# Don't commit js files from the src folder
+src/**/*.js

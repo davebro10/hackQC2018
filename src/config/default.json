@@ -1,0 +1,10 @@
+{
+    "App": {
+        "port": 12345,
+        "baseUrl": "api/v1/application"
+    },
+    "Mongo": {
+        "user": "admin",
+        "password": "Admin1"
+    }
+}
